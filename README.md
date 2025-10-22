@@ -15,6 +15,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AuroraSec-Pivot"><img src="https://github-readme-stats.vercel.app/api?username=AuroraSEC&hide_border=true&show_icons=true" alt="AuroraSEC's github stats"></a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+  <a href="https://github.com/AuroraSec-Pivot"><img src="https://github-readme-stats.vercel.app/api?username=AuroraSec-Pivot&hide_border=true&show_icons=true" alt="AuroraSEC's github stats"></a>
 </p>
