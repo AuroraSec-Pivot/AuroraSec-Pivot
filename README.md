@@ -1,19 +1,19 @@
+<p align="center">
+  <a href="https://forum.butian.net/people/29386">
+    <img src="https://i0.hdslb.com/bfs/article/abf2662f10334d3caf9e60d530c4d7772d86a937.png" alt="Banner" width="50%">
+  </a>
+</p>
 
+<h1 align="center">hi, i'm AuroraSEC</a>!</h1>
 
-<!--
-**AuroraSec-Pivot/AuroraSec-Pivot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">welcome to my GitHub profile </h3>
 
-Here are some ideas to get you started:
+<p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creation～☆</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=愿你们的代码如极光纯净，愿你们的防御如极光永恒&center=true&size=27"> </a> </h1>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<p align="center">
+  <strong><a href="https://forum.butian.net/people/29386">奇安信攻防社区</a></strong> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="AuroraSEC's github stats"></a>
+</p>
